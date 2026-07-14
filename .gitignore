@@ -1,1 +1,12 @@
 .DS_Store
+St_pack1/
+assets/
+data_tables/
+Eve_emg_spawn_300_rows.csv
+Npc_C_300_rows.csv
+icon-mapper.html
+icon-mapper.js
+quest_names_from_mark_c.txt
+quest_names_from_mark_c_raw_candidates.txt
+data/*
+!data/door-data.js
