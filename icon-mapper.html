@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Skill Icon Mapper</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <style>
+    body{margin:0;background:#0b1220;color:#eaf1ff;font-family:"Kanit",sans-serif}
+    .wrap{max-width:1400px;margin:0 auto;padding:14px}
+    .top{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+    button,select,input{background:#101a2f;color:#eaf1ff;border:1px solid #355087;border-radius:8px;padding:7px 10px;font-family:inherit}
+    .grid{display:grid;grid-template-columns:360px 1fr;gap:12px;margin-top:12px}
+    .panel{background:#0f182b;border:1px solid #2c3f69;border-radius:12px;padding:12px}
+    .ref{display:flex;gap:10px;align-items:center}
+    .ref img{width:64px;height:64px;border-radius:8px;border:1px solid #4b669f}
+    .cand{display:grid;grid-template-columns:repeat(auto-fill,minmax(74px,1fr));gap:8px;max-height:72vh;overflow:auto}
+    .item{background:#0b1428;border:1px solid #344f86;border-radius:8px;padding:6px;cursor:pointer;text-align:center}
+    .item.sel{outline:2px solid #56d4b5}
+    .item img{width:48px;height:48px;border-radius:6px;display:block;margin:0 auto 4px}
+    .muted{color:#9fb2db}
+    .maptext{width:100%;height:260px;overflow:auto;font-size:.95rem;border:1px solid #2c3f69;border-radius:8px;padding:8px;margin-top:8px;background:#0b1428;color:#eaf1ff}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="top">
+      <strong>Icon Mapper</strong>
+      <button id="prevBtn" type="button">ก่อนหน้า</button>
+      <button id="nextBtn" type="button">ถัดไป</button>
+      <button id="skipBtn" type="button">Skip (ใช้รูปเดิม)</button>
+      <label>Filter ธาตุ
+        <select id="filterElement">
+          <option value="all">ทั้งหมด</option>
+          <option value="earth">ดิน</option>
+          <option value="water">น้ำ</option>
+          <option value="wind">ลม</option>
+          <option value="fire">ไฟ</option>
+        </select>
+      </label>
+      <button id="exportBtn" type="button">Export JSON</button>
+      <button id="copyBtn" type="button">Copy Mapping</button>
+      <span id="status" class="muted"></span>
+    </div>
+
+    <div class="grid">
+      <section class="panel">
+        <h3 id="skillTitle">-</h3>
+        <div class="ref">
+          <img id="oldIcon" alt="old" />
+          <div>
+            <div id="skillMeta"></div>
+            <div class="muted">ไอคอนอ้างอิง (เก่า)</div>
+          </div>
+        </div>
+        <div style="margin-top:10px">
+          <label>ไฟล์ใหม่ที่เลือก (จากกล่องขวา)</label>
+          <input id="pickedName" type="text" readonly style="width:100%" />
+        </div>
+        <textarea id="mappedText" class="maptext" readonly></textarea>
+      </section>
+
+      <section class="panel">
+        <div class="muted" id="candidateLabel">ผู้สมัคร</div>
+        <div id="candBox" class="cand"></div>
+      </section>
+    </div>
+  </div>
+
+  <script src="data/skills-data.js"></script>
+  <script src="data/skill-icon-manifest.js"></script>
+  <script src="icon-mapper.js"></script>
+</body>
+</html>

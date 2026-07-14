@@ -1,0 +1,2069 @@
+{
+  "Language": [
+    "English",
+    "Thailand",
+    "Chinese"
+  ],
+  "Chat_World": [
+    "World",
+    "ทั้งหมด",
+    "World"
+  ],
+  "Chat_Scene": [
+    "Scene",
+    "ทั่วไป",
+    "Scene"
+  ],
+  "Chat_Whisper": [
+    "Whisper",
+    "กระซิบ",
+    "Whisper"
+  ],
+  "Chat_GM": [
+    "GM",
+    "GM",
+    "GM"
+  ],
+  "Chat_Team": [
+    "Team",
+    "ทีม",
+    "Team"
+  ],
+  "Chat_Organization": [
+    "Guild",
+    "กิลด์",
+    "Guild"
+  ],
+  "Chat_Ally": [
+    "Ally",
+    "พันธมิตร",
+    "Ally"
+  ],
+  "Str_Slot_Empty": [
+    "Empty slot",
+    "จำนวนช่องว่าง",
+    "Empty slot"
+  ],
+  "Button_Quest_Start": [
+    "Start",
+    "เริ่ม",
+    "Start"
+  ],
+  "Str_Exchange_Item": [
+    "Exchange",
+    "แลกรางวัล",
+    "Exchange"
+  ],
+  "Str_Add_Friend": [
+    "Add friend",
+    "เพิ่มเพื่อน",
+    "Add friend"
+  ],
+  "Str_Connect_Server": [
+    "Connect to server",
+    "เชื่อมต่อ server",
+    "Connect to server"
+  ],
+  "Str_Points_Skill": [
+    "Skill points",
+    "แต้มสกิล",
+    "Skill points"
+  ],
+  "Str_Time_Online": [
+    "Online",
+    "Online",
+    "Online"
+  ],
+  "Str_Consecutive_Days": [
+    "Consecutive days",
+    "Consecutive days",
+    "Consecutive days"
+  ],
+  "Str_Warrior_Fragments": [
+    "Warrior fragments",
+    "Warrior fragments",
+    "Warrior fragments"
+  ],
+  "Str_Equipment_Fragments": [
+    "Equipment fragments",
+    "Equipment fragments",
+    "Equipment fragments"
+  ],
+  "Str_Map_ChannelCurrent": [
+    "Current channel",
+    "channel ปัจจุบัน",
+    "Current channel"
+  ],
+  "Str_Map_Channel": [
+    "Channel",
+    "Channel",
+    "Channel"
+  ],
+  "Str_Map_PlayerNumber": [
+    "number of players",
+    "จำนวนผู้เล่น",
+    "number of players"
+  ],
+  "Str_Battle_AutoAttack": [
+    "Auto Attack",
+    "โจมตี อัตโนมัติ",
+    "Auto Attack"
+  ],
+  "Str_Battle_WaitControl": [
+    "Waiting for control",
+    "กำลังรอการควบคุม",
+    "Waiting for control"
+  ],
+  "Str_Battle_RequestJoinTeam": [
+    "Request to join the team",
+    "ขอเข้าร่วมทีม",
+    "Request to join the team"
+  ],
+  "Str_Battle_LeaveTeam": [
+    "Leave team",
+    "ออกจากทีม",
+    "Leave team"
+  ],
+  "Str_Battle_JoinTeam": [
+    "Join team",
+    "เข้าร่วมทีม",
+    "Join team"
+  ],
+  "Str_Battle_AcceptRequest": [
+    "Accept request",
+    "ตอบรับคำขอ",
+    "Accept request"
+  ],
+  "Str_Battle_AcceptInvite": [
+    "Accept invite",
+    "ตอบรับคำชวน",
+    "Accept invite"
+  ],
+  "Str_Battle_EndBattle": [
+    "End of the battle",
+    "จบการต่อสู้",
+    "End of the battle"
+  ],
+  "Str_Battle_Element": [
+    "Element",
+    "ธาตุ",
+    "Element"
+  ],
+  "Str_Battle_StartBattle": [
+    "Start the battle",
+    "เริ่มการต่อสู้",
+    "Start the battle"
+  ],
+  "Str_Battle_CountBattle": [
+    "จำนวนครั้งการต่อสู้",
+    "จำนวนครั้งการต่อสู้",
+    "จำนวนครั้งการต่อสู้"
+  ],
+  "Str_Battle_AverageLevel": [
+    "Average level",
+    "เลเวลเฉลี่ย",
+    "Average level"
+  ],
+  "Str_Battle_Turn": [
+    "Turn",
+    "เทิร์น",
+    "Turn"
+  ],
+  "Str_Battle_ControlCharacter": [
+    "Control the character",
+    "ควบคุมตัวละคร",
+    "Control the character"
+  ],
+  "Str_Battle_ControlWarrior": [
+    "Control the warrior",
+    "ควบคุมขุนพล",
+    "Control the warrior"
+  ],
+  "Str_Increase": [
+    "Increase",
+    "เพิ่ม",
+    "Increase"
+  ],
+  "Str_Decrease": [
+    "Decrease",
+    "ลด",
+    "Decrease"
+  ],
+  "Str_Money": [
+    "Money",
+    "เงิน",
+    "Money"
+  ],
+  "Str_Gold": [
+    "Gold",
+    "ทอง",
+    "Gold"
+  ],
+  "Str_Free": [
+    "Free",
+    "ฟรี",
+    "Free"
+  ],
+  "Str_Stop_All_Script": [
+    "BOT menu -> Click All -> Script -> ngung kich ban",
+    "BOT menu -> Click All -> Script -> หยุดสคริปทั้งหมด",
+    "BOT menu -> Click All -> Script -> ngung kich ban"
+  ],
+  "Str_Team_Unavailable": [
+    "Not found team leader, not enough members, or PK is disable",
+    "ไม่เจอหัวหน้าทีม, สมาชิกไม่ครบ, หรือไม่ได้เปิด PK",
+    "Not found team leader, not enough members, or PK is disable"
+  ],
+  "Str_Expiry_Date": [
+    "Expiry date",
+    "วันหมดอายุของบอท",
+    "Expiry date"
+  ],
+  "Str_Error_Restart": [
+    "Error, restart the application",
+    "ผิดพลาด, เริ่มบอทใหม่",
+    "Error, restart the application"
+  ],
+  "Str_Exit_Application": [
+    "Exit the application",
+    "ปิดบอท",
+    "Exit the application"
+  ],
+  "Str_No_Edit_Script": [
+    "Do not edit while the script runs",
+    "อย่าแก้ไขขณะที่สคริปกำลังทำงานอยู่",
+    "Do not edit while the script runs"
+  ],
+  "Str_Are_You_Sure": [
+    "Are you sure?",
+    "แน่ใจนะ?",
+    "Are you sure?"
+  ],
+  "Str_Not_Found_31171": [
+    "Not found ItemID = 31171",
+    "ไม่พบไอเท็ม ID = 31171",
+    "Not found ItemID = 31171"
+  ],
+  "Str_Use_Gold_Teleport": [
+    "Use gold to teleport",
+    "ใช้ทองเพื่อวาร์ป",
+    "Use gold to teleport"
+  ],
+  "Str_Not_Found_46474": [
+    "Not found ItemID = 46474 or not enough Gold",
+    "ไม่พบไอเท็ม ID = 46474 หรือมีทองไม่พอ",
+    "Not found ItemID = 46474 or not enough Gold"
+  ],
+  "Str_Buy_HPSP": [
+    "Buy HP SP",
+    "ซื้อ HP SP",
+    "Buy HP SP"
+  ],
+  "Str_Not_Enough_Points": [
+    "Not enough points to study",
+    "แต้มไม่พอที่จะเรียนรู้",
+    "Not enough points to study"
+  ],
+  "Str_Appoint_Leader": [
+    "Appoint",
+    "แต่งตั้ง",
+    "Appoint"
+  ],
+  "Str_As_Team_Leader": [
+    "as the team leader",
+    "เป็นหัวหน้าทีม",
+    "as the team leader"
+  ],
+  "Str_Member": [
+    "Member",
+    "สมาชิก",
+    "Member"
+  ],
+  "Str_Promote_Team_Leader": [
+    "Promote to the team leader",
+    "แต่งตั้งหัวหน้าทีม",
+    "Promote to the team leader"
+  ],
+  "Str_Not_Team_Leader": [
+    "You are not the team leader or not enough members",
+    "คุณไม่ใช่หัวหน้าทีม หรือ มีสมาชิกไม่ครบ",
+    "You are not the team leader or not enough members"
+  ],
+  "Str_Buy_Item": [
+    "Buy item",
+    "ซื้อไอเท็ม",
+    "Buy item"
+  ],
+  "Str_Join_Team_Dungeon": [
+    "Join the team dungeon",
+    "เข้าร่วมทีมดันเจี้ยน",
+    "Join the team dungeon"
+  ],
+  "Str_Member_Not_Ready": [
+    "Member not ready",
+    "สมาชิกยังไม่พร้อม",
+    "Member not ready"
+  ],
+  "Str_Buy_More_Turns": [
+    "Buy more turns",
+    "ซื้อรอบเพิ่ม",
+    "Buy more turns"
+  ],
+  "Str_Level": [
+    "Level",
+    "เลเวล",
+    "Level"
+  ],
+  "Str_Available_HPSP": [
+    "available HP/SP",
+    " HP/SP ที่มี",
+    "available HP/SP"
+  ],
+  "Str_Close_Account": [
+    "Close account",
+    "ปิด account",
+    "Close account"
+  ],
+  "Str_Add_Except": [
+    "Add except",
+    "เพิ่มเข้า ยกเว้น",
+    "Add except"
+  ],
+  "Str_Add_Auto_Drop": [
+    "Add auto drop",
+    "เพิ่มเข้า ทิ้ง อัตโนมัติ",
+    "Add auto drop"
+  ],
+  "Str_Add_Auto_Contribute": [
+    "Add auto contribute",
+    "เพิ่มเข้า บริจาค อัตโนมัติ",
+    "Add auto contribute"
+  ],
+  "Str_Add_Auto_Decompose": [
+    "Add auto decompose",
+    "เพิ่มเข้า ย่อย อัตโนมัติ",
+    "Add auto decompose"
+  ],
+  "Str_Add_Auto_Use": [
+    "Add auto use",
+    "เพิ่มเข้า ใช้ อัตโนมัติ",
+    "Add auto use"
+  ],
+  "Str_Add_Auto_Mix": [
+    "Add auto mix",
+    "เพิ่มเข้า หลอม อัตโนมัติ",
+    "Add auto mix"
+  ],
+  "Str_Add_Auto_Sell": [
+    "Add auto sell",
+    "เพิ่มเข้า ขาย อัตโนมัติ",
+    "Add auto sell"
+  ],
+  "Str_Add_Bag_Slot": [
+    "Add bag slot",
+    "ขยายช่องกระเป๋า",
+    "Add bag slot"
+  ],
+  "Str_Add_Bank_Slot": [
+    "Add bank slot",
+    "ขยายช่องคลัง",
+    "Add bank slot"
+  ],
+  "Str_Teleport_Save_Location": [
+    "teleport to the saved location",
+    "วาร์ปไปจุดเซฟ",
+    "teleport to the saved location"
+  ],
+  "Str_Enter_Number_Exchanges": [
+    "Enter the number of exchanges",
+    "ใส่จำนวนที่ต้องการแลกเปลี่ยน",
+    "Enter the number of exchanges"
+  ],
+  "Str_Enter_Number_Times": [
+    "Enter the number of times",
+    "ใส่จำนวนรอบ",
+    "Enter the number of times"
+  ],
+  "Str_Use_6_Cent": [
+    "Use 6 cents",
+    "Use 6 cents",
+    "Use 6 cents"
+  ],
+  "Str_Use_2_Cent": [
+    "Use 2 cents",
+    "Use 2 cents",
+    "Use 2 cents"
+  ],
+  "Str_Use_1_Cent": [
+    "Use 1 cent",
+    "Use 1 cent",
+    "Use 1 cent"
+  ],
+  "Str_Enter_Number_Cents": [
+    "Enter the number of cents",
+    "ใส่จำนวน cents",
+    "Enter the number of cents"
+  ],
+  "Str_Add_Turn_Spin": [
+    "ซื้อรอบ spin",
+    "ใส่เหรียญ spin",
+    "ซื้อรอบ spin"
+  ],
+  "Str_Move_Item_Bag": [
+    "Move item to the bag",
+    "ย้ายไอเท็มไปกระเป๋า",
+    "Move item to the bag"
+  ],
+  "Str_Move_Item_Bank": [
+    "Move item to the bank",
+    "ย้ายไอเท็มไปคลัง",
+    "Move item to the bank"
+  ],
+  "Str_Edit_Script": [
+    "Edit script",
+    "แก้ไขสคริป",
+    "Edit script"
+  ],
+  "Str_Enter_Password": [
+    "Enter password",
+    "ใส่ password",
+    "Enter password"
+  ],
+  "Str_Require_Enter_Password": [
+    "require a password",
+    "ต้องการ password",
+    "require a password"
+  ],
+  "Str_CHAR_Use": [
+    "CHAR use",
+    "ผู้เล่น use",
+    "CHAR use"
+  ],
+  "Str_PET_Use": [
+    "PET use",
+    "ขุนพล use",
+    "PET use"
+  ],
+  "Str_Drop_Item": [
+    "Drop item",
+    "ทิ้งไอเท็ม",
+    "Drop item"
+  ],
+  "Str_Contribute_Item": [
+    "Contribute item",
+    "บริจาค item",
+    "Contribute item"
+  ],
+  "Str_Decompose_Item": [
+    "Decompose item",
+    "ย่อย item",
+    "Decompose item"
+  ],
+  "Str_Item_ID": [
+    "Item ID",
+    "ไอเท็ม ID",
+    "Item ID"
+  ],
+  "Str_CHAR_Equipment_ID": [
+    "CHAR equipment id",
+    "ของสวมใส่ของผู้เล่น id",
+    "CHAR equipment id"
+  ],
+  "Str_PET_Equipment_ID": [
+    "PET equipment id",
+    "ของสวมใส่ของขุนพล id",
+    "PET equipment id"
+  ],
+  "Str_Send_Item": [
+    "Send item",
+    "ส่งไอเท็ม",
+    "Send item"
+  ],
+  "Str_Take_Item": [
+    "Take item",
+    "รับไอเท็ม",
+    "Take item"
+  ],
+  "Str_Send_Pet": [
+    "Send pet",
+    "ฝากเข้า",
+    "Send pet"
+  ],
+  "Str_Get_Pet": [
+    "Get pet",
+    "นำออก",
+    "Get pet"
+  ],
+  "Str_Enable_PK": [
+    "Enable PK",
+    "เปิด PK",
+    "Enable PK"
+  ],
+  "Str_Disable_PK": [
+    "Disable PK",
+    "ปิด PK",
+    "Disable PK"
+  ],
+  "Str_Map_Level_49942": [
+    "Level NPC",
+    "เลเวล NPC",
+    "Level NPC"
+  ],
+  "Str_Join_Dungeon": [
+    "join dungeon",
+    "เข้าร่วมดันเจี้ยน",
+    "join dungeon"
+  ],
+  "Str_Select_Here": [
+    "setup here",
+    "setup here",
+    "setup here"
+  ],
+  "Str_Go_To_Here": [
+    "go to here",
+    "go to here",
+    "go to here"
+  ],
+  "Str_Save_Config_Team": [
+    "Save config team",
+    "เซฟ คอนฟิกทีม",
+    "Save config team"
+  ],
+  "Str_Minutes": [
+    "minutes",
+    "นาที",
+    "minutes"
+  ],
+  "Str_Earth": [
+    "Earth",
+    "ดิน",
+    "Earth"
+  ],
+  "Str_Water": [
+    "Water",
+    "น้ำ",
+    "Water"
+  ],
+  "Str_Fire": [
+    "Fire",
+    "ไฟ",
+    "Fire"
+  ],
+  "Str_Wind": [
+    "Wind",
+    "ลม",
+    "Wind"
+  ],
+  "Str_None": [
+    "None",
+    "None",
+    "None"
+  ],
+  "Str_Note_Quest": [
+    "Quest",
+    "เควส",
+    "Quest"
+  ],
+  "Str_Note_Collect": [
+    "Collect items",
+    "Collect items",
+    "Collect items"
+  ],
+  "Str_Expiry_Date_BDY": [
+    "BDY Expiry date",
+    "BDY Expiry date",
+    "BDY Expiry date"
+  ],
+  "Str_Week_Dungeon": [
+    "Week Dungeon",
+    "ดันเจี้ยนสัปดาห์",
+    "Week Dungeon"
+  ],
+  "Str_Invite": [
+    "Invite",
+    "เชิญ",
+    "Invite"
+  ],
+  "Str_Start": [
+    "Start",
+    "เริ่ม",
+    "Start"
+  ],
+  "Str_Reward": [
+    "Reward",
+    "รางวัล",
+    "Reward"
+  ],
+  "Str_Disconnect": [
+    "Disconnect",
+    "Disconnect",
+    "Disconnect"
+  ],
+  "Str_Save": [
+    "Save",
+    "เซฟ",
+    "Save"
+  ],
+  "Str_Reward_Friend": [
+    "reward",
+    "รางวัล",
+    "reward"
+  ],
+  "Str_Give_Friend": [
+    "give",
+    "ให้",
+    "give"
+  ],
+  "Str_None_Friend": [
+    "none",
+    "none",
+    "none"
+  ],
+  "Str_Recv_Friend": [
+    "reward",
+    "รางวัล",
+    "reward"
+  ],
+  "Str_Send_Friend": [
+    "give",
+    "ให้",
+    "give"
+  ],
+  "Str_Not_Complete": [
+    "unfinished",
+    "ยังไม่เสร็จ",
+    "unfinished"
+  ],
+  "Str_Daily_Mission": [
+    "Daily Mission Completed",
+    "ภารกิจประจำวันสำเร็จแล้ว",
+    "Daily Mission Completed"
+  ],
+  "Str_Receive_Online": [
+    "Receive gifts online",
+    "รับรางวัลออนไลน์",
+    "Receive gifts online"
+  ],
+  "Str_Warrior_Condition": [
+    "Warrior condition",
+    "Warrior condition",
+    "Warrior condition"
+  ],
+  "Str_Item_Condition": [
+    "Item condition",
+    "Item condition",
+    "Item condition"
+  ],
+  "Str_Menu_Group_1": [
+    "Add character",
+    "เพิ่มตัวละคร",
+    "Add character"
+  ],
+  "Str_Menu_Group_2": [
+    "Setting",
+    "ตั้งค่า",
+    "Setting"
+  ],
+  "Str_Menu_Group_3": [
+    "Click All",
+    "สั่งทุกตัวละคร",
+    "Click All"
+  ],
+  "Str_Menu_Group_4": [
+    "Data",
+    "ข้อมูล",
+    "Data"
+  ],
+  "Str_Menu_Group_5": [
+    "Reset STATISTIC",
+    "รีเซ็ตสถิติ",
+    "Reset STATISTIC"
+  ],
+  "Str_Menu_Group_6": [
+    "Create team",
+    "สร้างทีม",
+    "Create team"
+  ],
+  "Str_Menu_Group_7": [
+    "Save config team",
+    "เซฟคอนฟิกทีม",
+    "Save config team"
+  ],
+  "Str_Menu_Group_8": [
+    "Open config team",
+    "โหลดคอนฟิกทีม",
+    "Open config team"
+  ],
+  "Str_Menu_Group_9": [
+    "Reload Game Data",
+    "รีโหลด Game Data",
+    "Reload Game Data"
+  ],
+  "Str_Menu_Group_10": [
+    "Enter code",
+    "ใส่ code",
+    "Enter code"
+  ],
+  "Str_Menu_Group_11": [
+    "Enable auto login",
+    "ล็อกอิน อัตโนมัติ",
+    "Enable auto login"
+  ],
+  "Str_Menu_Group_12": [
+    "Enable reset token",
+    "รีเซ็ต token",
+    "Enable reset token"
+  ],
+  "Str_Menu_Group_13": [
+    "Enable mode join battle (mineral mining)",
+    "เปิดโหมดร่วมต่อสู้ (ขุดแร่)",
+    "Enable mode join battle (mineral mining)"
+  ],
+  "Str_Menu_Group_14": [
+    "Enable mode join battle (training)",
+    "เปิดโหมดร่วมต่อสู้ (ฟาร์ม)",
+    "Enable mode join battle (training)"
+  ],
+  "Str_Menu_Group_15": [
+    "Enable use SAFE LOCATION to form team and go to training",
+    "ใช้จุดปลอดภัยเพื่อตั้งทีม แล้วไปฟาร์ม",
+    "Enable use SAFE LOCATION to form team and go to training"
+  ],
+  "Str_Menu_Group_16": [
+    "Enable do not use CITY_GATE to WARP",
+    "ไม่ใช้วาร์ปของเมืองหลัก",
+    "Enable do not use CITY_GATE to WARP"
+  ],
+  "Str_Menu_Group_17": [
+    "Show expiry date",
+    "แสดงวันที่บอทหมดอายุ",
+    "Show expiry date"
+  ],
+  "Str_Menu_Group_18": [
+    "Hide BOT (ALT+Z+X to show)",
+    "ซ่อนบอท (ALT+Z+X เพื่อแสดง)",
+    "Hide BOT (ALT+Z+X to show)"
+  ],
+  "Str_Menu_Group_19": [
+    "Click login",
+    "ล็อกอิน",
+    "Click login"
+  ],
+  "Str_Menu_Group_20": [
+    "Log daily",
+    "ล็อกอินประจำวัน",
+    "Log daily"
+  ],
+  "Str_Menu_Group_21": [
+    "All teleport to saved location",
+    "All teleport to saved location",
+    "All teleport to saved location"
+  ],
+  "Str_Menu_Group_22": [
+    "Teleport",
+    "วาร์ป",
+    "Teleport"
+  ],
+  "Str_Menu_Group_23": [
+    "Single dungeon",
+    "ดันเดี่ยว",
+    "Single dungeon"
+  ],
+  "Str_Menu_Group_24": [
+    "Team dungeon",
+    "ดันทีม",
+    "Team dungeon"
+  ],
+  "Str_Menu_Group_25": [
+    "Script",
+    "สคริป",
+    "Script"
+  ],
+  "Str_Menu_Group_26": [
+    "Other scripts",
+    "สคริปอื่นๆ",
+    "Other scripts"
+  ],
+  "Str_Menu_Group_27": [
+    "Exchange item",
+    "แลกรางวัล",
+    "Exchange item"
+  ],
+  "Str_Menu_Group_28": [
+    "Otherworld",
+    "ต่างมิติ",
+    "Otherworld"
+  ],
+  "Str_Menu_Group_29": [
+    "Enable block chat spam",
+    "เปิดใช้งาน บล็อกสแปมการแชท",
+    "Enable block chat spam"
+  ],
+  "Str_Menu_Group_30": [
+    "Search ITEM, NPC, SKILL, MAP, SCRIPT",
+    "ค้นหา ITEM, NPC, SKILL, MAP, SCRIPT",
+    "Search ITEM, NPC, SKILL, MAP, SCRIPT"
+  ],
+  "Str_Menu_Group_101": [
+    "Fight Ba Dou Yao",
+    "สู้กับปาโต้เยา",
+    "Fight Ba Dou Yao"
+  ],
+  "Str_Menu_Group_102": [
+    "Find Box",
+    "หาหีบสมบัติ",
+    "Find Box"
+  ],
+  "Str_Menu_Group_103": [
+    "Find Ba Dou Yao",
+    "หาปาโต้เยา",
+    "Find Ba Dou Yao"
+  ],
+  "Str_Menu_Group_104": [
+    "Single Dungeon (once)",
+    "ดันเดี่ยว (1รอบ)",
+    "Single Dungeon (once)"
+  ],
+  "Str_Menu_Group_105": [
+    "Single Dungeon (twice)",
+    "ดันเดี่ยว (2รอบ)",
+    "Single Dungeon (twice)"
+  ],
+  "Str_Menu_Group_106": [
+    "ดันเดี่ยว (1รอบ), บอสโลก(1ครั้ง), ดันทีมเลเวล20",
+    "ดันเดี่ยว (1รอบ), บอสโลก(1ครั้ง), ดันทีมเลเวล 20",
+    "ดันเดี่ยว (1รอบ), บอสโลก(1ครั้ง), ดันทีมเลเวล20"
+  ],
+  "Str_Menu_Group_107": [
+    "ดันเดี่ยว (2รอบ), บอสโลก(1ครั้ง), ดันทีมเลเวล20",
+    "ดันเดี่ยว (2รอบ), บอสโลก(1ครั้ง), ดันทีมเลเวล 20",
+    "ดันเดี่ยว (2รอบ), บอสโลก(1ครั้ง), ดันทีมเลเวล20"
+  ],
+  "Str_Menu_Group_108": [
+    "ดันเดี่ยว (1รอบ), บอสโลก(5ครั้ง), ดันทีมเลเวล20",
+    "ดันเดี่ยว (1รอบ), บอสโลก(5ครั้ง), ดันทีมเลเวล 20",
+    "ดันเดี่ยว (1รอบ), บอสโลก(5ครั้ง), ดันทีมเลเวล20"
+  ],
+  "Str_Menu_Group_109": [
+    "ดันเดี่ยว (2รอบ), บอสโลก(5ครั้ง), ดันทีมเลเวล20",
+    "ดันเดี่ยว (2รอบ), บอสโลก(5ครั้ง), ดันทีมเลเวล 20",
+    "ดันเดี่ยว (2รอบ), บอสโลก(5ครั้ง), ดันทีมเลเวล20"
+  ],
+  "Str_Menu_Group_110": [
+    "ดันเดี่ยว (1รอบ), บอสโลก(1ครั้ง), ดันทีมเลเวล20 50",
+    "ดันเดี่ยว (1รอบ), บอสโลก(1ครั้ง), ดันทีมเลเวล 20 50",
+    "ดันเดี่ยว (1รอบ), บอสโลก(1ครั้ง), ดันทีมเลเวล20 50"
+  ],
+  "Str_Menu_Group_111": [
+    "ดันเดี่ยว (2รอบ), บอสโลก(1ครั้ง), ดันทีมเลเวล20 50",
+    "ดันเดี่ยว (2รอบ), บอสโลก(1ครั้ง), ดันทีมเลเวล 20 50",
+    "ดันเดี่ยว (2รอบ), บอสโลก(1ครั้ง), ดันทีมเลเวล20 50"
+  ],
+  "Str_Menu_Group_112": [
+    "ดันเดี่ยว (1รอบ), บอสโลก(5ครั้ง), ดันทีมเลเวล20 50",
+    "ดันเดี่ยว (1รอบ), บอสโลก(5ครั้ง), ดันทีมเลเวล 20 50",
+    "ดันเดี่ยว (1รอบ), บอสโลก(5ครั้ง), ดันทีมเลเวล20 50"
+  ],
+  "Str_Menu_Group_113": [
+    "ดันเดี่ยว (2รอบ), บอสโลก(5ครั้ง), ดันทีมเลเวล20 50",
+    "ดันเดี่ยว (2รอบ), บอสโลก(5ครั้ง), ดันทีมเลเวล 20 50",
+    "ดันเดี่ยว (2รอบ), บอสโลก(5ครั้ง), ดันทีมเลเวล20 50"
+  ],
+  "Str_Menu_Group_114": [
+    "Sell Buy HP/SP, ดันเดี่ยว (1รอบ), บอสโลก(7ครั้ง), ดันทีมเลเวล20",
+	"ขาย ซื้อ HP/SP, ดันเดี่ยว (1รอบ), บอสโลก(7ครั้ง), ดันทีมเลเวล 20",
+    "Sell Buy HP/SP, ดันเดี่ยว (1รอบ), บอสโลก(7ครั้ง), ดันทีมเลเวล20"
+  ],
+  "Str_Menu_Group_115": [
+    "Sell Buy HP/SP, ดันเดี่ยว (2รอบ), บอสโลก(7ครั้ง), ดันทีมทั้งหมด",
+    "ขาย ซื้อ HP/SP ดันเดี่ยว (2รอบ), บอสโลก(7ครั้ง), ดันทีมทั้งหมด",
+    "Sell Buy HP/SP, ดันเดี่ยว (2รอบ), บอสโลก(7ครั้ง), ดันทีมทั้งหมด"
+  ],
+  "Str_Menu_Group_301": [
+    "ซื้อรอบ ดันเดี่ยว",
+    "ซื้อรอบ ดันเดี่ยว",
+    "ซื้อรอบ ดันเดี่ยว"
+  ],
+  "Str_Menu_Group_302": [
+    "ซื้อรอบ ดันทีมเลเวล 20",
+    "ซื้อรอบ ดันทีมเลเวล 20",
+    "ซื้อรอบ ดันทีมเลเวล 20"
+  ],
+  "Str_Menu_Group_303": [
+    "ซื้อรอบ ดันทีมเลเวล 50",
+    "ซื้อรอบ ดันทีมเลเวล 50",
+    "ซื้อรอบ ดันทีมเลเวล 50"
+  ],
+  "Str_Menu_Group_304": [
+    "ซื้อรอบ ดันทีมเลเวล 80",
+    "ซื้อรอบ ดันทีมเลเวล 80",
+    "ซื้อรอบ ดันทีมเลเวล 80"
+  ],
+  "Str_Menu_Group_305": [
+    "ซื้อรอบ ดันทีมเลเวล 110",
+    "ซื้อรอบ ดันทีมเลเวล 110",
+    "ซื้อรอบ ดันทีมเลเวล 110"
+  ],
+  "Str_Menu_Group_306": [
+    "ซื้อรอบ ดันทีมเลเวล 140",
+    "ซื้อรอบ ดันทีมเลเวล 140",
+    "ซื้อรอบ ดันทีมเลเวล 140"
+  ],
+  "Str_Menu_Group_307": [
+    "ซื้อรอบ ดันทีมทั้งหมด",
+    "ซื้อรอบ ดันทีมทั้งหมด",
+    "ซื้อรอบ ดันทีมทั้งหมด"
+  ],
+  "Str_Menu_Group_308": [
+    "Run script: sell and buy HP/SP",
+    "เริ่มสคริป: ขายและซื้อ HP/SP",
+    "Run script: sell and buy HP/SP"
+  ],
+  "Str_Menu_Group_309": [
+    "Add bag slot",
+    "ขยายช่องกระเป๋า",
+    "Add bag slot"
+  ],
+  "Str_Menu_Group_401": [
+    "Start",
+    "เริ่ม",
+    "Start"
+  ],
+  "Str_Menu_Group_402": [
+    "ซื้อรอบ",
+    "ซื้อรอบ",
+    "ซื้อรอบ"
+  ],
+  "Str_Statistic_1": [
+    "จำนวนครั้งการต่อสู้",
+    "จำนวนครั้งการต่อสู้",
+    "จำนวนครั้งการต่อสู้"
+  ],
+  "Str_Statistic_2": [
+    "Battles per minute",
+    "รอบการต่อสู้/นาที",
+    "Battles per minute"
+  ],
+  "Str_Statistic_3": [
+    "Total CHAR EXP",
+    "EXP ผู้เล่น ที่ได้",
+    "Total CHAR EXP"
+  ],
+  "Str_Statistic_4": [
+    "CHAR EXP per minute",
+    "EXP ผู้เล่น/นาที",
+    "CHAR EXP per minute"
+  ],
+  "Str_Statistic_5": [
+    "Total PET EXP",
+    "EXP ขุนพล ที่ได้",
+    "Total PET EXP"
+  ],
+  "Str_Statistic_6": [
+    "PET EXP per minute",
+    "EXP ขุนพล/นาที",
+    "PET EXP per minute"
+  ],
+  "Str_Statistic_7": [
+    "CHAR died",
+    "ผู้เล่น ตาย",
+    "CHAR died"
+  ],
+  "Str_Statistic_8": [
+    "PET died",
+    "ขุนพล ตาย",
+    "PET died"
+  ],
+  "Str_Statistic_9": [
+    "Time",
+    "เวลา",
+    "Time"
+  ],
+  "Str_Bag_1": [
+    "CHAR use item",
+    "ผู้เล่น ใช้ไอเท็ม",
+    "CHAR use item"
+  ],
+  "Str_Bag_2": [
+    "PET use item",
+    "ขุนพล ใช้ไอเท็ม",
+    "PET use item"
+  ],
+  "Str_Bag_3": [
+    "Add auto use",
+    "เพิ่มเข้า ใช้อัตโนมัติ",
+    "Add auto use"
+  ],
+  "Str_Bag_4": [
+    "Add except",
+    "เพิ่มเข้า ยกเว้น",
+    "Add except"
+  ],
+  "Str_Bag_5": [
+    "Add auto mix",
+    "เพิ่มเข้า หลอม อัตโนมัติ",
+    "Add auto mix"
+  ],
+  "Str_Bag_6": [
+    "Add auto sell",
+    "เพิ่มเข้า ขาย อัตโนมัติ",
+    "Add auto sell"
+  ],
+  "Str_Bag_7": [
+    "Decompose",
+    "ย่อย",
+    "Decompose"
+  ],
+  "Str_Bag_8": [
+    "Contribute",
+    "บริจาค",
+    "Contribute"
+  ],
+  "Str_Bag_9": [
+    "Drop",
+    "ทิ้ง",
+    "Drop"
+  ],
+  "Str_Bag_10": [
+    "Add all accounts",
+    "เพิ่มเข้าไปยังทุกตัวละคร",
+    "Add all accounts"
+  ],
+  "Str_Bag_11": [
+    "Add bag slot",
+    "ขยายช่องกระเป๋า",
+    "Add bag slot"
+  ],
+  "Str_Bag_12": [
+    "Decompose item",
+    "ย่อย item",
+    "Decompose item"
+  ],
+  "Str_Bag_13": [
+    "Add auto decompose",
+    "เพิ่มเข้า ย่อย อัตโนมัติ",
+    "Add auto decompose"
+  ],
+  "Str_Bag_14": [
+    "Contribute item",
+    "บริจาคไอเท็ม",
+    "Contribute item"
+  ],
+  "Str_Bag_15": [
+    "Add auto contribute",
+    "เพิ่มเข้า บริจาค อัตโนมัติ",
+    "Add auto contribute"
+  ],
+  "Str_Bag_16": [
+    "Drop item",
+    "ทิ้ง",
+    "Drop item"
+  ],
+  "Str_Bag_17": [
+    "Add auto drop",
+    "เพิ่มเข้า ทิ้ง อัตโนมัติ",
+    "Add auto drop"
+  ],
+  "Str_Bag_18": [
+    "Add auto decompose",
+    "เพิ่มเข้า ย่อย อัตโนมัติ",
+    "Add auto decompose"
+  ],
+  "Str_Bag_19": [
+    "Add auto contribute",
+    "เพิ่มเข้า บริจาค อัตโนมัติ",
+    "Add auto contribute"
+  ],
+  "Str_Bag_20": [
+    "Add auto drop",
+    "เพิ่มเข้า ทิ้ง อัตโนมัติ",
+    "Add auto drop"
+  ],
+  "Str_Bag_21": [
+    "Take off equipment",
+    "ถอดยุทธภัณฑ์",
+    "Take off equipment"
+  ],
+  "Str_Bag_22": [
+    "Send item",
+    "ฝากเข้า",
+    "Send item"
+  ],
+  "Str_Bag_23": [
+    "Take item",
+    "นำออก",
+    "Take item"
+  ],
+  "Str_Bag_24": [
+    "Add bank slot",
+    "ขยายคลัง",
+    "Add bank slot"
+  ],
+  "Str_Control_Text_1": [
+    "Number NPC >=",
+    "จำนวน NPC >=",
+    "Number NPC >="
+  ],
+  "Str_Control_Text_2": [
+    "ELEMENT",
+    "ธาตุ",
+    "ELEMENT"
+  ],
+  "Str_Control_Text_3": [
+    "SKILL NAME",
+    "ชื่อสกิล",
+    "SKILL NAME"
+  ],
+  "Str_Control_Text_4": [
+    "SKILL ID",
+    "สกิล ID",
+    "SKILL ID"
+  ],
+  "Str_Control_Text_5": [
+    "LEVEL",
+    "เลเวล",
+    "LEVEL"
+  ],
+  "Str_Control_Text_6": [
+    "MAIL",
+    "จดหมาย",
+    "MAIL"
+  ],
+  "Str_Control_Text_7": [
+    "enable buy item",
+    "ซื้อไอเท็มอัตโนมัติ",
+    "enable buy item"
+  ],
+  "Str_Control_Text_8": [
+    "TURN",
+    "เทิร์น",
+    "TURN"
+  ],
+  "Str_Control_Text_9": [
+    "SKILL",
+    "สกิล",
+    "SKILL"
+  ],
+  "Str_Control_Text_10": [
+    "Pursue npc",
+    "ไล่ล่า npc",
+    "Pursue npc"
+  ],
+  "Str_Control_Text_11": [
+    "SETTING1",
+    "SETTING1",
+    "SETTING1"
+  ],
+  "Str_Control_Text_12": [
+    "SETTING2",
+    "SETTING2",
+    "SETTING2"
+  ],
+  "Str_Control_Text_13": [
+    "BAG",
+    "กระเป๋า",
+    "BAG"
+  ],
+  "Str_Control_Text_14": [
+    "EQUIP",
+    "ยุทธภัณฑ์",
+    "EQUIP"
+  ],
+  "Str_Control_Text_15": [
+    "LOCKET",
+    "ไอเท็มจุติ",
+    "LOCKET"
+  ],
+  "Str_Control_Text_16": [
+    "SHOP-MAIL",
+    "SHOP",
+    "SHOP-MAIL"
+  ],
+  "Str_Control_Text_17": [
+    "GROUP_ID",
+    "GROUP_ID",
+    "GROUP_ID"
+  ],
+  "Str_Control_Text_18": [
+    "CITY_GATE",
+    "เมืองหลัก",
+    "CITY_GATE"
+  ],
+  "Str_Control_Text_19": [
+    "SAVED",
+    "จุดบันทึก",
+    "SAVED"
+  ],
+  "Str_Control_Text_20": [
+    "TIMER",
+    "TIMER",
+    "TIMER"
+  ],
+  "Str_Control_Text_21": [
+    "Commands",
+    "คำสั่ง",
+    "Commands"
+  ],
+  "Str_Control_Text_22": [
+    "Single",
+    "เดี่ยว",
+    "Single"
+  ],
+  "Str_Control_Text_23": [
+    "Team",
+    "ทีม",
+    "Team"
+  ],
+  "Str_Control_Text_24": [
+    "Task#",
+    "อื่นๆ#",
+    "Task#"
+  ],
+  "Str_Control_Text_25": [
+    "QUEST",
+    "เควส",
+    "QUEST"
+  ],
+  "Str_Control_Text_26": [
+    "EXCHANGE",
+    "แลกรางวัล",
+    "EXCHANGE"
+  ],
+  "Str_Control_Text_27": [
+    "SPIN_BONUS",
+    "ปาโต้รูเลตต์",
+    "SPIN_BONUS"
+  ],
+  "Str_Control_Text_28": [
+    "SALE",
+    "ร้านค้าพเนจร",
+    "SALE"
+  ],
+  "Str_Control_Text_29": [
+    "PET",
+    "ขุนพล",
+    "PET"
+  ],
+  "Str_Control_Text_30": [
+    "CHAR",
+    "ผู้เล่น",
+    "CHAR"
+  ],
+  "Str_Control_Text_31": [
+    "BATTLE",
+    "BATTLE",
+    "BATTLE"
+  ],
+  "Str_Control_Text_32": [
+    "SETTING",
+    "SETTING",
+    "SETTING"
+  ],
+  "Str_Control_Text_33": [
+    "STATISTIC",
+    "สถิติ",
+    "STATISTIC"
+  ],
+  "Str_Control_Text_34": [
+    "SCRIPT",
+    "สคริป",
+    "SCRIPT"
+  ],
+  "Str_Control_Text_35": [
+    "UTILITIES",
+    "UTILITIES",
+    "UTILITIES"
+  ],
+  "Str_Control_Text_36": [
+    "PLAYER",
+    "ผู้เล่น",
+    "PLAYER"
+  ],
+  "Str_Control_Text_37": [
+    "INVITATION",
+    "คำเชิญ",
+    "INVITATION"
+  ],
+  "Str_Control_Text_38": [
+    "Enable PK",
+    "เปิด PK",
+    "Enable PK"
+  ],
+  "Str_Control_Text_39": [
+    "FRIEND",
+    "เพื่อน",
+    "FRIEND"
+  ],
+  "Str_Control_Text_40": [
+    "SKILL",
+    "สกิล",
+    "SKILL"
+  ],
+  "Str_Control_Text_41": [
+    "BATTLE_2",
+    "BATTLE_2",
+    "BATTLE_2"
+  ],
+  "Str_Control_Text_42": [
+    "Index",
+    "Index",
+    "Index"
+  ],
+  "Str_Control_Text_43": [
+    "CHAT",
+    "CHAT",
+    "CHAT"
+  ],
+  "Str_Control_Text_44": [
+    "STATUS",
+    "STATUS",
+    "STATUS"
+  ],
+  "Str_Control_Text_45": [
+    "ITEM",
+    "ITEM",
+    "ITEM"
+  ],
+  "Str_Control_Text_46": [
+    "SHOP,MAIL",
+    "เตา,SHOP",
+    "SHOP,MAIL"
+  ],
+  "Str_Control_Text_47": [
+    "Search map training",
+    "ค้นหาเขตฝึกฝน",
+    "Search map training"
+  ],
+  "Str_Control_Text_48": [
+    "NPC in map",
+    "NPC ในแผนที่",
+    "NPC in map"
+  ],
+  "Str_Control_Text_49": [
+    "Item in map",
+    "ไอเท็มในแผนที่",
+    "Item in map"
+  ],
+  "Str_Control_Text_50": [
+    "Quest and script",
+    "เควส และ สคริป",
+    "Quest and script"
+  ],
+  "Str_Control_Text_51": [
+    "NPC",
+    "NPC",
+    "NPC"
+  ],
+  "Str_Control_Text_52": [
+    "Item",
+    "ไอเท็ม",
+    "Item"
+  ],
+  "Str_Control_Text_53": [
+    "Skill",
+    "สกิล",
+    "Skill"
+  ],
+  "Str_Control_Text_54": [
+    "Enter NPC:",
+    "Enter NPC:",
+    "Enter NPC:"
+  ],
+  "Str_Control_Text_55": [
+    "Enter quest:",
+    "Enter quest:",
+    "Enter quest:"
+  ],
+  "Str_Control_Text_56": [
+    "Enter item:",
+    "Enter item:",
+    "Enter item:"
+  ],
+  "Str_Control_Text_57": [
+    "Enter item:",
+    "Enter item:",
+    "Enter item:"
+  ],
+  "Str_Control_Text_58": [
+    "Enter skill:",
+    "Enter skill:",
+    "Enter skill:"
+  ],
+  "Str_Control_Text_59": [
+    "Search",
+    "ค้นหา",
+    "Search"
+  ],
+  "Str_Control_Text_60": [
+    "Search",
+    "ค้นหา",
+    "Search"
+  ],
+  "Str_Control_Text_61": [
+    "Lv:",
+    "Lv:",
+    "Lv:"
+  ],
+  "Str_Control_Text_62": [
+    "Element:",
+    "ธาตุ:",
+    "Element:"
+  ],
+  "Str_Control_Text_63": [
+    "RB:",
+    "จุติ:",
+    "RB:"
+  ],
+  "Str_Control_Text_64": [
+    "Number:",
+    "Number:",
+    "Number:"
+  ],
+  "Str_Control_Text_65": [
+    "Inn",
+    "ขุนพลบนรถม้า",
+    "Inn"
+  ],
+  "Str_Control_Text_201": [
+    "Show info in map",
+    "แสดงในแผนที่",
+    "Show info in map"
+  ],
+  "Str_Control_Text_202": [
+    "Index",
+    "ลำดับ",
+    "Index"
+  ],
+  "Str_Control_Text_203": [
+    "Name",
+    "ชื่อ",
+    "Name"
+  ],
+  "Str_Control_Text_204": [
+    "Player",
+    "ผู้เล่น",
+    "Player"
+  ],
+  "Str_Control_Text_205": [
+    "Gate",
+    "ประตู",
+    "Gate"
+  ],
+  "Str_Control_Text_206": [
+    "ID",
+    "ID",
+    "ID"
+  ],
+  "Str_Control_Text_207": [
+    "NPC",
+    "NPC",
+    "NPC"
+  ],
+  "Str_Control_Text_208": [
+    "Item",
+    "ไอเท็ม",
+    "Item"
+  ],
+  "Str_Control_Text_220": [
+    "Inn",
+    "โรงเตี๊ยม",
+    "Inn"
+  ],
+  "Str_Control_Text_221": [
+    "Cart",
+    "รถม้า",
+    "Cart"
+  ],
+  "Str_Control_Text_225": [
+    "MAP",
+    "แผนที่",
+    "MAP"
+  ],
+  "Str_Control_Text_226": [
+    "WARP",
+    "วาร์ป",
+    "WARP"
+  ],
+  "Str_Control_Text_227": [
+    "LOGIN",
+    "ล็อกอิน",
+    "LOGIN"
+  ],
+  "Str_Control_Text_228": [
+    "Leave team",
+    "ออกทีม",
+    "Leave team"
+  ],
+  "Str_Control_Text_230": [
+    "SP",
+    "เสนา",
+    "SP"
+  ],
+  "Str_Control_Text_231": [
+    "Leader",
+    "หัวหน้าทีม",
+    "Leader"
+  ],
+  "Str_Control_Text_250": [
+    "SAVE",
+    "SAVE",
+    "SAVE"
+  ],
+  "Str_Control_Text_251": [
+    "OPEN",
+    "OPEN",
+    "OPEN"
+  ],
+  "Str_Control_Text_252": [
+    "QUIT",
+    "QUIT",
+    "QUIT"
+  ],
+  "Str_Control_Text_260": [
+    "Auto TALK",
+    "คุยอัตโนมัติ",
+    "Auto TALK"
+  ],
+  "Str_Control_Text_261": [
+    "Use Items",
+    "ใช้ไอเท็ม",
+    "Use Items"
+  ],
+  "Str_Control_Text_262": [
+    "Use",
+    "ใช้",
+    "Use"
+  ],
+  "Str_Control_Text_263": [
+    "Use",
+    "ใช้",
+    "Use"
+  ],
+  "Str_Control_Text_264": [
+    "PET NAME",
+    "ชื่อขุนพล",
+    "PET NAME"
+  ],
+  "Str_Control_Text_270": [
+    "Carthorse",
+    "รถม้า",
+    "Carthorse"
+  ],
+  "Str_Control_Text_271": [
+    "Disable Pet",
+    "พักรบขุนพล",
+    "Disable Pet"
+  ],
+  "Str_Control_Text_272": [
+    "Enable Pet",
+    "ขุนพลออกรบ",
+    "Enable Pet"
+  ],
+  "Str_Control_Text_280": [
+    "PET ITEM ID",
+    "ขุนพลไอเท็ม ID",
+    "PET ITEM ID"
+  ],
+  "Str_Control_Text_281": [
+    "EQUIP ITEM ID",
+    "ยุทธภัณฑ์ไอเท็ม ID",
+    "EQUIP ITEM ID"
+  ],
+  "Str_Control_Text_282": [
+    "LOCKET ITEM ID",
+    "ไอเท็มจุติ ID",
+    "LOCKET ITEM ID"
+  ],
+  "Str_Control_Text_290": [
+    "Enable Attack",
+    "เปิดใช้ โจมตี",
+    "Enable Attack"
+  ],
+  "Str_Control_Text_291": [
+    "Attack 1",
+    "โจมตี 1",
+    "Attack 1"
+  ],
+  "Str_Control_Text_292": [
+    "Attack 2",
+    "โจมตี 2",
+    "Attack 2"
+  ],
+  "Str_Control_Text_300": [
+    "Contribute Item ID",
+    "บริจาคไอเท็ม ID",
+    "Contribute Item ID"
+  ],
+  "Str_Control_Text_301": [
+    "enable auto contribute",
+    "บริจาคอัตโนมัติ",
+    "enable auto contribute"
+  ],
+  "Str_Control_Text_302": [
+    "Decompose Item ID",
+    "ย่อยไอเท็ม ID",
+    "Decompose Item ID"
+  ],
+  "Str_Control_Text_303": [
+    "enable auto decompose",
+    "ย่อยไอเท็มอัตโนมัติ",
+    "enable auto decompose"
+  ],
+  "Str_Control_Text_304": [
+    "Use Item ID",
+    "ใช้ไอเท็ม ID",
+    "Use Item ID"
+  ],
+  "Str_Control_Text_305": [
+    "enable auto use",
+    "ใช้ไอเท็มอัตโนมัติ",
+    "enable auto use"
+  ],
+  "Str_Control_Text_306": [
+    "Drop Item ID",
+    "ทิ้งไอเท็ม ID",
+    "Drop Item ID"
+  ],
+  "Str_Control_Text_307": [
+    "enable auto drop",
+    "ทิ้งไอเท็มอัตโนมัติ",
+    "enable auto drop"
+  ],
+  "Str_Control_Text_308": [
+    "Except Item ID",
+    "ยกเว้น ไอเท็ม ID",
+    "Except Item ID"
+  ],
+  "Str_Control_Text_310": [
+    "Add Skill",
+    "เรียนสกิล",
+    "Add Skill"
+  ],
+  "Str_Control_Text_320": [
+    "ซื้อรอบ",
+    "ใส่เหรียญ",
+    "ซื้อรอบ"
+  ],
+  "Str_Control_Text_321": [
+    "once",
+    "หมุน 1 ครั้ง",
+    "once"
+  ],
+  "Str_Control_Text_322": [
+    "twice",
+    "หมุน 2 ครั้ง",
+    "twice"
+  ],
+  "Str_Control_Text_323": [
+    "three times",
+    "สลับสามต่อเนื่อง",
+    "three times"
+  ],
+  "Str_Control_Text_331": [
+    "ซื้อรอบ",
+    "ซื้อรอบ",
+    "ซื้อรอบ"
+  ],
+  "Str_Control_Text_332": [
+    "Password",
+    "Password",
+    "Password"
+  ],
+  "Str_Control_Text_333": [
+    "Create room",
+    "สร้างห้อง",
+    "Create room"
+  ],
+  "Str_Control_Text_334": [
+    "Start task",
+    "เริ่ม",
+    "Start task"
+  ],
+  "Str_Control_Text_335": [
+    "Leave room",
+    "ออกจากห้อง",
+    "Leave room"
+  ],
+  "Str_Control_Text_336": [
+    "Enable auto join room and start tasks",
+    "เข้าร่วมห้องและกดพร้อมอัตโนมัติ",
+    "Enable auto join room and start tasks"
+  ],
+  "Str_Control_Text_337": [
+    "Enable timer script",
+    "เปิดใช้ สคริป ตามเวลา",
+    "Enable timer script"
+  ],
+  "Str_Control_Text_340": [
+    "in the battle",
+    "ในการต่อสู้",
+    "in the battle"
+  ],
+  "Str_Control_Text_341": [
+    "outside the battle",
+    "ไม่ได้กำลังต่อสู้",
+    "outside the battle"
+  ],
+  "Str_Control_Text_342": [
+    "CHAR use SP <",
+    "ผู้เล่นใช้ยาฟื้น SP <",
+    "CHAR use SP <"
+  ],
+  "Str_Control_Text_343": [
+    "CHAR use HP <",
+    "ผู้เล่นใช้ยาฟื้น HP <",
+    "CHAR use HP <"
+  ],
+  "Str_Control_Text_344": [
+    "PET use SP <",
+    "ขุนพลใช้ยาฟื้น SP <",
+    "PET use SP <"
+  ],
+  "Str_Control_Text_345": [
+    "PET use HP <",
+    "ขุนพลใช้ยาฟื้น HP <",
+    "PET use HP <"
+  ],
+  "Str_Control_Text_346": [
+    "Get bottle EXP",
+    "รับขวด EXP",
+    "Get bottle EXP"
+  ],
+  "Str_Control_Text_350": [
+    "SP any % <",
+    "SP ใคร % <",
+    "SP any % <"
+  ],
+  "Str_Control_Text_351": [
+    "HP any % <",
+    "HP ใคร % <",
+    "HP any % <"
+  ],
+  "Str_Control_Text_352": [
+    "Resurrect member",
+    "ชุบชีวิตสมาชิกทีม",
+    "Resurrect member"
+  ],
+  "Str_Control_Text_353": [
+    "Esuna dissolve all magics",
+    "สลายสภาวะทั้งหมด",
+    "Esuna dissolve all magics"
+  ],
+  "Str_Control_Text_354": [
+    "CHAR stun",
+    "ผู้เล่น ติดสถานะ",
+    "CHAR stun"
+  ],
+  "Str_Control_Text_355": [
+    "PET stun",
+    "ขุนพลติดสถานะ",
+    "PET stun"
+  ],
+  "Str_Control_Text_356": [
+    "Use item ID",
+    "ใช้ไอเท็ม ID",
+    "Use item ID"
+  ],
+  "Str_Control_Text_357": [
+    "AI attack",
+    "AI สั่งการโจมตีให้เอง",
+    "AI attack"
+  ],
+  "Str_Control_Text_360": [
+    "Auto join channel",
+    "Auto join channel",
+    "Auto join channel"
+  ],
+  "Str_Control_Text_361": [
+    "NPC location",
+    "จุดฟาร์ม",
+    "NPC location"
+  ],
+  "Str_Control_Text_362": [
+    "Safe location",
+    "จุดปลอดภัย",
+    "Safe location"
+  ],
+  "Str_Control_Text_363": [
+    "Disconnect if minutes not fight",
+    "ตัดการเชื่อมต่อถ้าไม่สู้ใน/นาที",
+    "Disconnect if minutes not fight"
+  ],
+  "Str_Control_Text_364": [
+    "Invite members",
+    "เชิญเข้าทีม",
+    "Invite members"
+  ],
+  "Str_Control_Text_365": [
+    "Request to join team",
+    "ขอเข้าร่วมทีม",
+    "Request to join team"
+  ],
+  "Str_Control_Text_366": [
+    "Come to safe location when PET died",
+    "กลับจุดปลอดภัยถ้าขุนพลตาย",
+    "Come to safe location when PET died"
+  ],
+  "Str_Control_Text_367": [
+    "Come to safe location when CHAR died",
+    "กลับจุดปลอดภัยถ้าผู้เล่นตาย",
+    "Come to safe location when CHAR died"
+  ],
+  "Str_Control_Text_368": [
+    "Pursue NPC if there are enough members",
+    "ไล่ล่า NPC ถ้าจำนวนสมาชิกครบ",
+    "Pursue NPC if there are enough members"
+  ],
+  "Str_Control_Text_369": [
+    "Run away if alone, not enough members",
+    "หนี ถ้าอยู่คนเดียว, สมาชิกไม่ครบ",
+    "Run away if alone, not enough members"
+  ],
+  "Str_Control_Text_370": [
+    "Move character same a player",
+    "เดินให้เหมือนผู้เล่นปรกติ-ไม่ทะลุผนัง",
+    "Move character same a player"
+  ],
+  "Str_Control_Text_371": [
+    "When teleport,check whether map saved",
+    "เมื่อวาร์ป,เช็คแผนที่ ที่เซฟ",
+    "When teleport,check whether map saved"
+  ],
+  "Str_Control_Text_372": [
+    "Go on the script if it's not yet completed",
+    "ทำต่อ สคริป ที่ค้างไว้ ถ้ายังทำไม่เสร็จ",
+    "Go on the script if it's not yet completed"
+  ],
+  "Str_Control_Text_381": [
+    "Use God of Luck, ID:",
+    "ใช้เทพโชคลาภ, ID:",
+    "Use God of Luck, ID:"
+  ],
+  "Str_Control_Text_382": [
+    "Char use Special, ID:",
+    "ผู้เล่นใช้ตรา, ID:",
+    "Char use Special, ID:"
+  ],
+  "Str_Control_Text_383": [
+    "PET use Special, ID:",
+    "ขุนพลใช้ตรา, ID:",
+    "PET use Special, ID:"
+  ],
+  "Str_Control_Text_384": [
+    "Right click on an item in the bag to view ID",
+    "คลิกขวาที่ไอเท็มในกระเป๋าเพื่อดู ID",
+    "Right click on an item in the bag to view ID"
+  ],
+  "Str_Control_Text_385": [
+    "CHAR and PET auto use Hoe",
+    "ผู้เล่นและขุนพลใช้ Hoe อัตโนมัติ",
+    "CHAR and PET auto use Hoe"
+  ],
+  "Str_Control_Text_386": [
+    "PET use item ID if up level",
+    "ขุนพลใช้ไอเท็ม ID ถ้าเลเวลอัพ",
+    "PET use item ID if up level"
+  ],
+  "Str_Control_Text_387": [
+    "Dispatch 1",
+    "ส่งขุนพล 1",
+    "Dispatch 1"
+  ],
+  "Str_Control_Text_388": [
+    "Feed",
+    "Feed",
+    "Feed"
+  ],
+  "Str_Control_Text_389": [
+    "Daily tasks, consecutive days",
+    "ภารกิจประจำวัน, ล็อกอินสะสม",
+    "Daily tasks, consecutive days"
+  ],
+  "Str_Control_Text_390": [
+    "Report online, guild, receive mail",
+    "รางวัลออนไลน์, กองทัพ, เปิดจดหมาย",
+    "Report online, guild, receive mail"
+  ],
+  "Str_Control_Text_391": [
+    "Receive EXP offline",
+    "รับ EXP ออฟไลน์",
+    "Receive EXP offline"
+  ],
+  "Str_Control_Text_392": [
+    "Pick up item ID",
+    "เก็บไอเท็ม ID",
+    "Pick up item ID"
+  ],
+  "Str_Control_Text_393": [
+    "Use ID",
+    "ใช้ ID",
+    "Use ID"
+  ],
+  "Str_Control_Text_394": [
+    "no any ID",
+    "ถ้าไม่มี ID",
+    "no any ID"
+  ],
+  "Str_Control_Text_395": [
+    "Money Tree, Dragon Box, Login Award...",
+    "Money Tree, หีบมังกร, รางวัลล็อกอิน...",
+    "Money Tree, Dragon Box, Login Award..."
+  ],
+  "Str_Control_Text_400": [
+    "Mix item id",
+    "หลอมรวมไอเท็ม id",
+    "Mix item id"
+  ],
+  "Str_Control_Text_401": [
+    "Enable auto mix",
+    "หลอมอัตโนมัติ",
+    "Enable auto mix"
+  ],
+  "Str_Control_Text_402": [
+    "Disconnect if any NPC ID",
+    "ตัดการเชื่อมต่อถ้ามี NPC ID",
+    "Disconnect if any NPC ID"
+  ],
+  "Str_Control_Text_403": [
+    "Run away if any NPC ID",
+    "หนี ถ้าเจอ NPC ID",
+    "Run away if any NPC ID"
+  ],
+  "Str_Control_Text_404": [
+    "Attack if all NPC ID",
+    "โจมตี ถ้าทุกตัวคือ NPC ID",
+    "Attack if all NPC ID"
+  ],
+  "Str_Control_Text_405": [
+    "Attack if exist NPC ID",
+    "โจมตี ถ้ามี NPC ID",
+    "Attack if exist NPC ID"
+  ],
+  "Str_Control_Text_406": [
+    "Defend if exist NPC ID",
+    "ป้องกัน ถ้ามี NPC ID",
+    "Defend if exist NPC ID"
+  ],
+  "Str_Control_Text_407": [
+    "View NPC ID from DATA or BATTLE",
+    "ดู NPC ID จาก DATA หรือ BATTLE",
+    "View NPC ID from DATA or BATTLE"
+  ],
+  "Str_Control_Text_421": [
+    "Buy and sell item id",
+    "ซื้อและขายไอเท็ม id",
+    "Buy and sell item id"
+  ],
+  "Str_Control_Text_422": [
+    "Enable auto sell",
+    "ขายอัตโนมัติ",
+    "Enable auto sell"
+  ],
+  "Str_Control_Text_423": [
+    "Run script",
+    "เริ่มสคริป",
+    "Run script"
+  ],
+  "Str_Control_Text_424": [
+    "Enable auto buy HP",
+    "ซื้อ HP อัตโนมัติ",
+    "Enable auto buy HP"
+  ],
+  "Str_Control_Text_425": [
+    "Enable auto buy SP",
+    "ซื้อ SP อัตโนมัติ",
+    "Enable auto buy SP"
+  ],
+  "Str_Control_Text_430": [
+    "Search ITEM, NPC, SKILL, MAP, SCRIPT",
+    "ค้นหา ITEM, NPC, SKILL, MAP, SCRIPT",
+    "Search ITEM, NPC, SKILL, MAP, SCRIPT"
+  ],
+  "Str_Control_Text_431": [
+    "BANK",
+    "คลัง",
+    "BANK"
+  ],
+  "Str_Control_Text_432": [
+    "Auto Run",
+    "วิ่งวนอัตโนมัติ",
+    "Auto Run"
+  ],
+  "Str_Control_Text_433": [
+    "Enable Attack",
+    "Enable Attack",
+    "Enable Attack"
+  ],
+  "Str_Control_Text_434": [
+    "receive LuckyBag",
+    "receive LuckyBag",
+    "receive LuckyBag"
+  ],
+  "Str_Control_Text_435": [
+    "use Otherworld Amulet",
+    "ใช้ยันต์ต่างมิติ",
+    "use Otherworld Amulet"
+  ],
+  
+  "Str_Other_Script_1": [
+    "Go to training map",
+    "Go to training map",
+    "Go to training map"
+  ],
+  "Str_Other_Script_2": [
+    "Cancel script",
+    "Cancel script",
+    "Cancel script"
+  ],
+  "Str_Other_Script_3": [
+    "Cancel script, leave event",
+    "Cancel script, leave event",
+    "Cancel script, leave event"
+  ],
+  "Str_Other_Script_4": [
+    "Go to inn",
+    "Go to inn",
+    "Go to inn"
+  ],
+  "Str_Other_Script_5": [
+    "Go to bank",
+    "Go to bank",
+    "Go to bank"
+  ],
+  "Str_Other_Script_6": [
+    "View mining",
+    "View mining",
+    "View mining"
+  ],
+  "Str_Other_Script_7": [
+    "Use mining item",
+    "Use mining item",
+    "Use mining item"
+  ],
+  "Str_Other_Script_8": [
+    "View dispatch",
+    "View dispatch",
+    "View dispatch"
+  ],
+    "Str_Other_Script_9": [
+    "Add dispatch turn",
+    "Add dispatch turn",
+    "Add dispatch turn"
+  ],
+  "Str_Other_Script_10": [
+    "Enable allow join battle",
+    "Enable allow join battle",
+    "Enable allow join battle"
+  ],
+  "Str_Other_Script_11": [
+    "Enable PK",
+    "Enable PK",
+    "Enable PK"
+  ],
+  "Str_Other_Script_12": [
+    "Refresh information boards",
+    "Refresh information boards",
+    "Refresh information boards"
+  ],
+  
+}

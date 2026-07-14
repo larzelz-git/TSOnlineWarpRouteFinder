@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TS Online Warp Route Finder</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="shell">
+    <section class="hero card">
+      <p class="eyebrow">TS Online</p>
+      <h1>Warp Route Finder</h1>
+      <p class="hero-copy">
+        ใส่เลข ID Map ต้นทางและปลายทาง แล้วระบบจะหาเส้นทางวาร์ปที่สั้นที่สุดจากข้อมูล `door.ini`
+      </p>
+      <form id="routeForm" class="route-form">
+        <label>
+          <span>ต้นทาง</span>
+          <input id="startInput" name="start" type="number" inputmode="numeric" placeholder="เช่น 12000" required />
+        </label>
+        <button id="swapBtn" class="ghost-btn swap-btn" type="button" aria-label="สลับต้นทางและปลายทาง">⇄</button>
+        <label>
+          <span>ปลายทาง</span>
+          <input id="endInput" name="end" type="number" inputmode="numeric" placeholder="เช่น 12825" required />
+        </label>
+        <button class="primary-btn" type="submit">หาเส้นทาง</button>
+      </form>
+
+      <div class="quick-actions">
+        <button class="ghost-btn" type="button" data-sample-start="12000" data-sample-end="12825">ลองตัวอย่าง 12000 → 12825</button>
+        <label class="upload-btn">
+          <input id="fileInput" type="file" accept=".ini,.txt" />
+          <span>โหลด `door.ini` ใหม่</span>
+        </label>
+      </div>
+
+      <div class="meta-grid">
+        <article class="meta-card">
+          <span class="meta-label">จำนวนเส้นทางทั้งหมด</span>
+          <strong id="edgeCount">-</strong>
+        </article>
+        <article class="meta-card">
+          <span class="meta-label">จำนวนแผนที่</span>
+          <strong id="nodeCount">-</strong>
+        </article>
+        <article class="meta-card">
+          <span class="meta-label">แหล่งข้อมูล</span>
+          <strong id="dataSource">door.ini เริ่มต้น</strong>
+        </article>
+      </div>
+    </section>
+
+    <section class="results card">
+      <div class="results-top">
+        <div>
+          <p class="eyebrow">Result</p>
+          <h2 id="resultTitle">ยังไม่ได้ค้นหา</h2>
+        </div>
+        <div id="hopBadge" class="hop-badge">0 hops</div>
+      </div>
+
+      <p id="resultMessage" class="result-message">
+        กดปุ่ม “หาเส้นทาง” เพื่อคำนวณเส้นทางสั้นที่สุด
+      </p>
+
+      <div id="pathSummary" class="path-summary is-hidden"></div>
+      <div class="result-tabs" role="tablist" aria-label="รูปแบบผลลัพธ์">
+        <button id="rawTabBtn" class="result-tab is-active" type="button" role="tab" aria-selected="true">เส้นทางเต็ม</button>
+        <button id="portalTabBtn" class="result-tab" type="button" role="tab" aria-selected="false">WarpPortal</button>
+      </div>
+      <pre id="pathOutput" class="path-output"></pre>
+    </section>
+  </main>
+
+  <script src="data/door-data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
